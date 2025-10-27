@@ -3,4 +3,4 @@ Role: Software Engineer (intern)
 learning: Git
 Date: 25-10-25
 
-Learning Goals:  to complete one front end and one back end language which is by our company so that i can serve for our company and to upskill my self
+Learning Goals: To complete one front end and one back end language which is used by our company, so that I can contribute and upskill myself
