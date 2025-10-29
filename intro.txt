@@ -1,4 +1,4 @@
-:Name: Sai srinath Juluri
+Name: Sai srinath Juluri
 Role: Software Engineer (intern)
 learning: Git
 Date: 25-10-25
