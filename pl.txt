@@ -1,2 +1,1 @@
-hi
-hello
+this is my first practice on merge conflicts
