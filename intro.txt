@@ -4,5 +4,8 @@ learning: Git
 Date: 25-10-25
 
 Learning Goals: To complete one front end and one back end language which is used by our company, so that I can contribute and upskill myself
+<<<<<<< HEAD
 
 added a teach branch
+=======
+>>>>>>> parent of 3c62915 (m1)
