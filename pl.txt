@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hi
 hello
-=======
-hai this is srinath
->>>>>>> learn
