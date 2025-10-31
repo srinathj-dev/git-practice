@@ -2,4 +2,3 @@ hi
 hello
 entered final text for squash merge
 new fetch text added
-der
